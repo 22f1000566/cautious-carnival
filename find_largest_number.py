@@ -16,4 +16,3 @@ largest_num = max(num1, num2, num3)
 
 # Display the largest number
 st.write(f"The largest number among {num1}, {num2}, and {num3} is {largest_num}.")
-streamlit run find_largest_number.py
